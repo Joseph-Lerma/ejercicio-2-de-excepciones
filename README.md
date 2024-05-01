@@ -1,3 +1,6 @@
+Hecho por Joseph Lerma (2359690) y por David Mujarajinsoy
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
